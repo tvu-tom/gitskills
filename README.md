@@ -1,3 +1,3 @@
 # gitskills
 my test repository
-branch test
+branch test & conflict test
